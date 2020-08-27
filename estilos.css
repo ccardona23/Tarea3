@@ -1,0 +1,87 @@
+body{
+    background-image: url('img/fondo1.jpg');
+    background-size: cover;
+}
+#contenedor{
+    width: 300px;
+    background: rgb(206, 67, 136);
+    padding: 30px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+#curso  {
+    width: 40%;
+    height: 50px;
+    font-family: "Forte";
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: rgb(185, 27, 93);
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+#eliminar  {
+    width: 40%;
+    height: 50px;
+    font-family: "Forte";
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: rgb(185, 27, 93);
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+
+
+#curso {
+    font-size: 20px;
+    color: rgb(204, 162, 45);
+    text-shadow: 0px 2px 30px black;
+}
+
+#eliminar {
+    font-size: 20px;
+    color: rgb(204, 162, 45);
+    text-shadow: 0px 2px 30px black;
+}
+
+#lista{
+    font-size: 28px;
+    color: rgba(68, 52, 8, 0.993);
+    text-align: center;
+    font-family: "Georgia";  
+}
+
+#agregar{
+    font-family: 'Bodoni MT Black';
+    font-size: 15px;
+   
+}
+
+#elimin{
+    font-family: 'Bodoni MT Black';
+    font-size: 15px;
+
+}
+
+
+#contenedor input[type="text"]{
+    background-color:rgb(206, 82, 169);
+    color: white;
+    border-radius: 8px;
+}
+
+label{
+    font-size: 15px;
+    font-family: 'Lato Black';
+}
+
